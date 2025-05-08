@@ -77,7 +77,7 @@ I'm a **fresher** with a strong foundation in **Cybersecurity** and **DevOps**, 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-000000?style=flat-square&logo=gnubash&logoColor=white)
 
-### 🌐 Webwechnology & Frameworks
+### 🌐 Web Technology & Frameworks
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
